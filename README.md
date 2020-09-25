@@ -8,3 +8,4 @@ This function analyzes 1D beam profiles. It will compute the left and right penu
 ```matlab
 [PenumbraL,PenumbraR,fwhmL,fwhmR,FieldSize] = BeamProfileAnalyzer(LateralData,DoseData)
 ```
+See  usage_example.m for an example of how to use this function.
